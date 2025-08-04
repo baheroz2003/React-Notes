@@ -1,3 +1,5 @@
+🔄 useState – UI ke liye hota hai
+🔂 useRef – Data ya DOM handle karne ke liye hota hai, bina UI update ke
 import React, { useState, useEffect, useRef } from 'react';
 function App() {
   // Step 1: Count state banaya
