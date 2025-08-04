@@ -1,0 +1,8 @@
+🧠 Scenario:
+User login karta hai.
+Agar user "Remember Me" tick karta hai, toh Local Storage me token save hota hai.
+Agar nahi karta, toh Session Storage me token save hota hai.
+Local Storage	:
+📦	Browser me data permanently store karta hai (jab tak manually delete na ho)
+Session Storage:
+Data sirf current tab/session ke liye hota hai jaise ki otp
