@@ -1,2 +1,2 @@
 # React-Notes
-This is for revision of the concept.
+This is for revision of the concept..
